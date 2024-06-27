@@ -36,19 +36,7 @@
 
 </table>
 
-## 👨🏻‍💻 Repository
-<table>
-<tr>
-<td align="center">프론트엔드</td>
-<td align="center">백엔드</td>
-</tr>
-<tr>
-<td align="center"> <a href="https://github.com/NonghaengDonghaeng/Nonghaeng_FE">Repository</a></td>
-<td align="center"> <a href="https://github.com/NonghaengDonghaeng/Nonghaeng_BE">Repository</a></td>
-</tr>
-</table>
-
-## 👻 Member
+## 👨🏻‍💻 Member
 <table>
 <tr>
 <td align="center">프론트엔드</td>
@@ -78,6 +66,10 @@
       </a>
     </td>
   </tr>
+    <tr>
+<td align="center"> <a href="https://github.com/NonghaengDonghaeng/Nonghaeng_FE">Repository</a></td>
+<td align="center"> <a href="https://github.com/NonghaengDonghaeng/Nonghaeng_BE">Repository</a></td>
+</tr>
 </table>
 
 ## 🛠️ Skills
