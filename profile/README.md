@@ -56,8 +56,8 @@
         <img src="https://avatars.githubusercontent.com/hcmhcs" alt="한창민 프로필" />
       </a>
     </td>
-      <td align="center">
-      X
+      <td align="center"  width="120px">
+      <img src="https://github.com/NonghaengDonghaeng/.github/assets/49056953/355cba3c-ad62-4a6a-b4df-df5bef1f6286" alt="오예진 프로필" />
     </td>
   </tr>
   <tr>
