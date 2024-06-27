@@ -36,13 +36,23 @@
 
 </table>
 
-
+## 👨🏻‍💻 Repository
+<table>
+<tr>
+<td align="center">프론트엔드</td>
+<td align="center">백엔드</td>
+</tr>
+<tr>
+<td align="center"> <a href="https://github.com/NonghaengDonghaeng/Nonghaeng_FE">Repository</a></td>
+<td align="center"> <a href="https://github.com/NonghaengDonghaeng/Nonghaeng_BE">Repository</a></td>
+</tr>
+</table>
 
 ## 👻 Member
 <table>
 <tr>
-<td align="center"> <a href="https://github.com/NonghaengDonghaeng/Nonghaeng_FE">프론트엔드 Repo</a></td>
-<td align="center"> <a href="https://github.com/NonghaengDonghaeng/Nonghaeng_BE">백엔드 Repo</a></td>
+<td align="center">프론트엔드</td>
+<td align="center">백엔드</td>
 </tr>
   <tr>
     <td align="center" width="120px">
