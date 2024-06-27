@@ -23,15 +23,16 @@
 <table>
 <tr>
 <td align="center">
-    <img width="300" src="https://github.com/NonghaengDonghaeng/Nonghaeng_BE/assets/49056953/04404423-fb25-44e9-8887-26be95e42d74" alt="메인 페이지" />
+    <img width="300" src="https://github.com/NonghaengDonghaeng/Nonghaeng_BE/assets/49056953/04404423-fb25-44e9-8887-26be95e42d74" alt="메인 페이지(웹)" />
 </td>
 <td align="center">
-    <img width="300" src="https://github.com/NonghaengDonghaeng/Nonghaeng_BE/assets/49056953/d8414214-a814-4982-8182-e9935f193e94" alt="여행리스트 페이지" />
+    <img width="300" src="https://github.com/NonghaengDonghaeng/.github/assets/49056953/68e530c7-a497-4ad8-9bc1-0258e7dd178a" alt="메인 페이지(모바일)" />
 </td>
+
 </tr>
 <tr>
-<td align="center">농행동행 메인 페이지</td>
-<td align="center">농행동행 세부 페이지</td>
+<td align="center">메인 페이지(웹)</td>
+<td align="center">메인 페이지(모바일)</td>
 </tr>
 
 </table>
