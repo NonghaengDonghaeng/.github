@@ -41,6 +41,8 @@
 <tr>
 <td align="center">프론트엔드</td>
 <td align="center">백엔드</td>
+<td align="center">UI/UX</td>
+
 </tr>
   <tr>
     <td align="center" width="120px">
@@ -52,6 +54,9 @@
       <a href="https://github.com/hcmhcs" target="_blank">
         <img src="https://avatars.githubusercontent.com/hcmhcs" alt="한창민 프로필" />
       </a>
+    </td>
+      <td align="center">
+      X
     </td>
   </tr>
   <tr>
@@ -65,10 +70,14 @@
        한창민
       </a>
     </td>
+    <td align="center">
+        <a href="https://www.notion.so/e6782c965b8a4f3cd10517ed08d82aec">오예진</a>
+    </td>
   </tr>
-    <tr>
+<tr>
 <td align="center"> <a href="https://github.com/NonghaengDonghaeng/Nonghaeng_FE">Repository</a></td>
 <td align="center"> <a href="https://github.com/NonghaengDonghaeng/Nonghaeng_BE">Repository</a></td>
+<td align="center"> X</td>
 </tr>
 </table>
 
