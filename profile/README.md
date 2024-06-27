@@ -86,6 +86,9 @@
 <img width="550" alt="stack" src="https://github.com/NonghaengDonghaeng/Nonghaeng_BE/assets/49056953/acc09429-5e21-40ce-bd56-a541d35b4c24">
 
 ## ⚙️ Infra
+### 백엔드
 <img width="978" alt="image" src="https://github.com/NonghaengDonghaeng/.github/assets/49056953/03a2ed96-507f-4e04-987e-2d8264cf7429">
+
+### 프론트엔드
 
 ## 🪄 CI/CD
